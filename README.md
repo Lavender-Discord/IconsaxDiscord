@@ -28,7 +28,9 @@ If you want to help and add icons just fork this repo and do your stuff and open
 
 Make sure that the icon you add matches the style of Iconsax Icons 😂.
 
+# Support
 
+For any kind of support related to this theme you can contact me in the [support server](https://discord.gg/B9TK7nqRE4).
 
 # Previews
 
