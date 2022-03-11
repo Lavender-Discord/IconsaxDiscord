@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "author": "Obscure.#4719",
     "description": "Changes discord icons to Iconsax.io icons!",
-    "license": "MIT",
+    "license": "GPL-3.0 License",
     "theme": "theme.scss",
     "invite": "discord.gg/B9TK7nqRE4"
 }
