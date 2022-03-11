@@ -27,3 +27,22 @@ Give me credits 👍.
 If you want to help and add icons just fork this repo and do your stuff and open a Pull Request 👍.
 
 Make sure that the icon you add matches the style of Iconsax Icons 😂.
+
+
+
+# Previews
+
+<img src="https://obscure-git.github.io/IconsaxDiscord/assets/1.png" alt="">
+
+<br>
+
+<img src="https://obscure-git.github.io/IconsaxDiscord/assets/2.png" alt="">
+
+<br>
+
+<img src="https://obscure-git.github.io/IconsaxDiscord/assets/3.png" alt="">
+
+<br>
+
+<img src="https://obscure-git.github.io/IconsaxDiscord/assets/4.png" alt="">
+
