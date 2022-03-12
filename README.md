@@ -22,6 +22,10 @@ Or for better control, paste this:
 
 Give me credits 👍.
 
+# Additional
+
+If you want this style of icons in your settings, visit: [Obscure-Git/Settings-Iconsax](https://github.com/Obscure-Git/Settings-Iconsax)
+
 # Credits
 
 Some icons I used were made by [CorellanStoma](https://github.com/CorellanStoma/) so credits to him!
