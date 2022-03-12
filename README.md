@@ -22,6 +22,10 @@ Or for better control, paste this:
 
 Give me credits 👍.
 
+# Credits
+
+Some icons I used were made by [CorellanStoma](https://github.com/CorellanStoma/) so credits to him!
+
 # Contributing
 
 If you want to help and add icons just fork this repo and do your stuff and open a Pull Request 👍.
