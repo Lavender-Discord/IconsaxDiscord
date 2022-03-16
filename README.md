@@ -1,30 +1,30 @@
 # IconsaxDiscord
 Changes all the discords default icons with [iconsax.io](https://iconsax.io) icons.
 
-I originally made this for [Lavender](https://github.com/Obscure-Git/Lavender), but now I made it as a separate theme so that anyone can use it or import it in their own theme.
+I originally made this for [Lavender](https://github.com/lavender-discord/Lavender), but now I made it as a separate theme so that anyone can use it or import it in their own theme.
 
 To import this Icon pack to your theme just paste the following code into your themes imports file:
 
 ```css
-@import url("https://obscure-git.github.io/IconsaxDiscord/theme.css");
+@import url("https://lavender-discord.github.io/IconsaxDiscord/theme.css");
 ```
 
 Or for better control, paste this:
 
 ```css
-@import url("https://obscure-git.github.io/IconsaxDiscord/src/channel-icons.css");
-@import url("https://obscure-git.github.io/IconsaxDiscord/src/general.css");
-@import url("https://obscure-git.github.io/IconsaxDiscord/src/others.css");
-@import url("https://obscure-git.github.io/IconsaxDiscord/src/text-bar.css");
-@import url("https://obscure-git.github.io/IconsaxDiscord/src/toolbar.css");
-@import url("https://obscure-git.github.io/IconsaxDiscord/src/user-actions.css");
+@import url("https://lavender-discord.github.io/IconsaxDiscord/src/channel-icons.css");
+@import url("https://lavender-discord.github.io/IconsaxDiscord/src/general.css");
+@import url("https://lavender-discord.github.io/IconsaxDiscord/src/others.css");
+@import url("https://lavender-discord.github.io/IconsaxDiscord/src/text-bar.css");
+@import url("https://lavender-discord.github.io/IconsaxDiscord/src/toolbar.css");
+@import url("https://lavender-discord.github.io/IconsaxDiscord/src/user-actions.css");
 ```
 
 Give me credits 👍.
 
 # Additional
 
-If you want this style of icons in your settings, visit: [Obscure-Git/Settings-Iconsax](https://github.com/Obscure-Git/Settings-Iconsax)
+If you want this style of icons in your settings, visit: [lavender-discord/Settings-Iconsax](https://github.com/lavender-discord/Settings-Iconsax)
 
 # Credits
 
@@ -42,17 +42,17 @@ For any kind of support related to this theme you can contact me in the [support
 
 # Previews
 
-<img src="https://obscure-git.github.io/IconsaxDiscord/assets/1.png" alt="">
+<img src="https://lavender-discord.github.io/IconsaxDiscord/assets/1.png" alt="">
 
 <br>
 
-<img src="https://obscure-git.github.io/IconsaxDiscord/assets/2.png" alt="">
+<img src="https://lavender-discord.github.io/IconsaxDiscord/assets/2.png" alt="">
 
 <br>
 
-<img src="https://obscure-git.github.io/IconsaxDiscord/assets/3.png" alt="">
+<img src="https://lavender-discord.github.io/IconsaxDiscord/assets/3.png" alt="">
 
 <br>
 
-<img src="https://obscure-git.github.io/IconsaxDiscord/assets/4.png" alt="">
+<img src="https://lavender-discord.github.io/IconsaxDiscord/assets/4.png" alt="">
 
