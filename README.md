@@ -12,6 +12,11 @@ To import this Icon pack to your theme just paste the following code into your t
 Or for better control, paste this:
 
 ```css
+@import url("https://lavender-discord.github.io/IconsaxDiscord/icon-styles/icons-bold.css");
+/* @import url("https://lavender-discord.github.io/IconsaxDiscord/icon-styles/icons-linear.css"); */
+
+/* One of the above two lines are must import as they contain all the icons */
+
 @import url("https://lavender-discord.github.io/IconsaxDiscord/src/channel-icons.css");
 @import url("https://lavender-discord.github.io/IconsaxDiscord/src/general.css");
 @import url("https://lavender-discord.github.io/IconsaxDiscord/src/others.css");
