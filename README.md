@@ -1,3 +1,5 @@
+#CURRENTLY UNMAINTAINED, WILL BE REWORKED IN LAVENDER V3, JOIN THE SUPPORT SERVER FOR MORE INFO
+
 # IconsaxDiscord
 Changes all the discords default icons with [iconsax.io](https://iconsax.io) icons.
 
