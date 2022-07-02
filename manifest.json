@@ -4,6 +4,6 @@
     "author": "Obscure.#4719",
     "description": "Changes discord icons to modern looking icons from iconsax!",
     "license": "MIT License",
-    "theme": "dev.scss",
+    "theme": "theme.scss",
     "invite": "discord.gg/B9TK7nqRE4"
 }
