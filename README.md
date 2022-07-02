@@ -5,7 +5,7 @@ Changes all the discords default icons to a bit more modern looking icons from [
 To import this iconpack to your theme just paste the following code into your themes imports file:
 
 ```css
-@import url("https://lavender-discord.github.io/IconsaxDiscord/dev.css");
+@import url("https://lavender-discord.github.io/IconsaxDiscord/theme.css");
 ```
 
 # Contributing
