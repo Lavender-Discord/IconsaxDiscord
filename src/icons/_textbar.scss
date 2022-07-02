@@ -40,9 +40,10 @@
 // Invite green icon in attach icon
 [d="M19.0532 14c1.326 0 2.598.5268 3.5355 1.4645.9377.9376 1.4645 2.2094 1.4645 3.5355 0 1.326-.5268 2.598-1.4645 3.5355C21.651 23.4732 20.3793 24 19.0532 24c-1.326 0-2.5978-.5268-3.5355-1.4645C14.58 21.598 14.0532 20.326 14.0532 19c0-2.7614 2.2386-5 5-5zm-1 7l3-2-3-2v4z"] {
 	d: path(var(--play));
-	transform: translate(7px, 7px);
+	transform-origin: center;
+	transform: translate(7px, 6px) scale(0.5);
 	stroke: var(--channeltextarea-background);
-	stroke-width: 1.5px;
+	stroke-width: 2px;
 }
 
 // Attach button inside the attach popout
