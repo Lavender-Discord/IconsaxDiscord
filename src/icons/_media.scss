@@ -1,0 +1,17 @@
+// Download
+[d="M16.293 9.293L17.707 10.707L12 16.414L6.29297 10.707L7.70697 9.293L11 12.586V2H13V12.586L16.293 9.293ZM18 20V18H20V20C20 21.102 19.104 22 18 22H6C4.896 22 4 21.102 4 20V18H6V20H18Z"] {
+	d: path(var(--download));
+}
+
+// Maximize
+[d="M5,14H3v5a2,2,0,0,0,2,2h5V19H5Z"] {
+    d: path(var(--maximize));
+    transform-origin: center;
+    transform: scale(0.95);
+}
+
+[d="M19,3H14V5h5v5h2V5A2,2,0,0,0,19,3Z"],
+[d="M19,19H14v2h5a2,2,0,0,0,2-2V14H19Z"],
+[d="M3,5v5H5V5h5V3H5A2,2,0,0,0,3,5Z"] {
+    display: none;
+}
