@@ -6,16 +6,22 @@
 }
 
 // Bell Icon Crossed
-[d="M18 10.5283L10.5287 18H21V17C19.344 17 18 15.657 18 14V10.5283Z"] {display: none;}
-[d="M8.957 19.5718L9.52877 19H15.4449C14.7519 20.19 13.4759 21 11.9999 21C10.7748 21 9.68752 20.442 8.957 19.5718Z"] {
+[d="M18 10.5283L10.5287 18H21V17C19.344 17 18 15.657 18 14V10.5283Z"] {
     d: path(var(--bell));
     transform-origin: center;
     transform: scale(0.9);
 }
 
+// Cross gap in bell icon
+[d="M8.957 19.5718L9.52877 19H15.4449C14.7519 20.19 13.4759 21 11.9999 21C10.7748 21 9.68752 20.442 8.957 19.5718Z"] {
+    d: path("M21.178 1.70703L22.592 3.12103L4.12103 21.593L2.70703 20.178L21.178 1.70703Z");
+    fill: var(--background-primary);
+    z-index: 101;
+}
+
 // The cross in bell icon
 [d="M21.178 1.70703L22.592 3.12103L4.12103 21.593L2.70703 20.178L21.178 1.70703Z"] {
-    transform: translate(-1px, 0px) rotate(10deg);
+    transform: rotate(10deg);
     transform-origin: center;
 }
 
