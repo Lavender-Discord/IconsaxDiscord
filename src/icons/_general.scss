@@ -84,6 +84,22 @@
 	d: path(var(--delete));
 }
 
+// Mark unread
+[d="M14 3H20C21 3 22.0001 4 22.0001 5V19.0003C22.0001 20 21 21 20 21H14C13 21 6 13 6 13H2V11H6C6 11 13 3 14 3Z"]{
+	d: path(var(--mark-unread)) !important;
+	transform: rotate(-45deg) scale(0.95) translate(2px, 0px);
+	transform-origin: center;
+}
+
+// Open Externally Icon
+[d="M10 5V3H5.375C4.06519 3 3 4.06519 3 5.375V18.625C3 19.936 4.06519 21 5.375 21H18.625C19.936 21 21 19.936 21 18.625V14H19V19H5V5H10Z"]{
+	d: path(var(--open-external));
+	transform: rotate(140deg);
+	transform-origin: center;
+}
+
+[d="M21 2.99902H14V4.99902H17.586L9.29297 13.292L10.707 14.706L19 6.41302V9.99902H21V2.99902Z"]{display: none;}
+
 // Reactions
 [d="M12 2C6.477 2 2 6.477 2 12C2 17.522 6.477 22 12 22C17.523 22 22 17.522 22 12C22 6.477 17.523 2 12 2ZM8 6C9.104 6 10 6.896 10 8C10 9.105 9.104 10 8 10C6.896 10 6 9.105 6 8C6 6.896 6.896 6 8 6ZM18 14C18 16.617 15.14 19 12 19C8.86 19 6 16.617 6 14V13H18V14ZM16 10C14.896 10 14 9.105 14 8C14 6.896 14.896 6 16 6C17.104 6 18 6.896 18 8C18 9.105 17.104 10 16 10Z"] {
 	d: path(var(--reactions));
@@ -185,3 +201,7 @@ svg.slider-32CRPX rect:first-child{
 	}
 }
 
+// Folder Icon
+[d="M20 7H12L10.553 5.106C10.214 4.428 9.521 4 8.764 4H3C2.447 4 2 4.447 2 5V19C2 20.104 2.895 21 4 21H20C21.104 21 22 20.104 22 19V9C22 7.896 21.104 7 20 7Z"] {
+	d: path(var(--folder));
+}
