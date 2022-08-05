@@ -178,6 +178,7 @@ svg.slider-32CRPX > svg{
 	display: none;
 }
 
+
 // Toggles
 svg.slider-32CRPX rect:first-child{
 	transform: scale(0.7);
@@ -186,6 +187,16 @@ svg.slider-32CRPX rect:first-child{
 
 .container-2nx-BQ, .input-2XRLou {
 	border-radius: 10px;
+}
+
+.container-2nx-BQ {
+	width: 35px;
+
+	&.checked-25WXMf {
+		.slider-32CRPX[style*="left: 12px;"] {
+			left: 7px !important;
+		}
+	}
 }
 
 // Folder Icon
