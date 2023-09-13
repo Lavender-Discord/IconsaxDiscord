@@ -1,9 +1,0 @@
-{
-    "name": "IconsaxDiscord",
-    "version": "2.0.0",
-    "author": "Obscure.#4719",
-    "description": "Changes discord icons to modern looking icons from iconsax!",
-    "license": "MIT License",
-    "theme": "theme.scss",
-    "invite": "discord.gg/B9TK7nqRE4"
-}
